@@ -1,7 +1,7 @@
-Berikut contoh **README.md** untuk repository **web_CRUD** (oleh user angelina-25) yang bisa kamu pakai atau modifikasi sesuai kebutuhan:
 
-```markdown
-# web_CRUD  
+
+
+## web_CRUD  
 Aplikasi CRUD sederhana menggunakan PHP Native + MySQL dengan koneksi menggunakan PDO.
 
 ## 📋 Deskripsi  
